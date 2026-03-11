@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Petru93
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Terraform, Ansible, CI/CD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
